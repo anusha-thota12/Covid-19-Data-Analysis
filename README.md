@@ -35,4 +35,15 @@ It plots total cases, deaths, and impacted age groups by continent and countries
   ## Dashboard
   ![Covid-19 dashbord](https://github.com/user-attachments/assets/3c1ceb32-063c-4742-8e08-8ed21bc91dfb)
 
+  ## Project Insights
+  - The United States has the largest number of reported cases of COVID-19 globally, after India and Russia.
+  - The most affected continent in terms of cases and deaths is North America.
+  - There was a sharp rise in cases between April and October 2020.
+  - Age consideration comes into play – continents with greater median age (such as Europe) contributed more.
+  - The dashboard makes it easy to compare countries and continents through simple imagery.
+  - Real-time KPIs can provide rapid update on total deaths, total cases, and new cases.
+
+## Project Conclusion
+This dashboard provides an interactive and compact view of the world COVID-19 status. It allows users to monitor patterns of spread, compare nations, and understand the impact by age and time. The project improved my data cleaning, modeling, visualization, and Power BI professional use skills. It is a powerful tool for data-driven decision-making and awareness.
+
 
